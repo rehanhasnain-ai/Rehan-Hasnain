@@ -1,0 +1,12 @@
+{
+  "name": "Remix: Mona AI-Assistant",
+  "description": "Your advanced, witty, and bilingual AI assistant specializing in coding, study help, and daily tasks.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Conversationalist",
+    "Code Assistant",
+    "Study Partner"
+  ]
+}
